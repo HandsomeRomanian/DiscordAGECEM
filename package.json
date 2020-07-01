@@ -1,15 +1,16 @@
 {
-  "name": "discordbottemplate",
+  "name": "AGECEM DiscordBot",
   "version": "1.0.0",
   "description": "",
   "main": "bot.js",
   "dependencies": {
     "@discordjs/opus": "^0.1.0",
     "bufferutil": "^4.0.1",
-    "discord.js": "^12.1.1",
+    "discord.js": "^12.2.0",
     "erlpack": "github:discordapp/erlpack",
     "opusscript": "0.0.7",
     "utf-8-validate": "^5.0.2",
+    "ytdl-core": "^2.1.0",
     "ytdl-core-discord": "^1.1.0"
   },
   "devDependencies": {},
